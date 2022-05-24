@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi all,
 
 ## About me
 <p align="justify">  I am Prudhwi Raj Krishna V, Integrated MCA student pursuing
