@@ -1,4 +1,4 @@
-###Hi all👋;
+### Hi all👋
 ## About me
 <p align="justify">  I am Prudhwi Raj Krishna V, Integrated MCA student pursuing
 degree from Saintgits College Of Engineering, Kottayam.<br>
