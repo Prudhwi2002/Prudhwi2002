@@ -8,4 +8,4 @@ on Google Search Console.I also done many online certifications on Website devel
 
 ## Reference
 
-<p> Go through:</p><br><p>https://www.linkedin.com/mwlite/in/prudhwi-raj-krishna-v</p>
+<p> Go through:</p><br>https://www.linkedin.com/mwlite/in/prudhwi-raj-krishna-v
